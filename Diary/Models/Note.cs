@@ -5,7 +5,7 @@ using System.Web;
 
 namespace Diary.Models
 {
-    public class Task
+    public class Note
     {
         public int Id { get; set; }
 
